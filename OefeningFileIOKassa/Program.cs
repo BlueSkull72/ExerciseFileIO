@@ -32,7 +32,7 @@ namespace OefeningFileIOKassa
                 File.Create(Path.Combine(baseTargetFolder, "klantenbestand.txt"));
             }
         }
-
+        //
         private static void Choicescreen()
         {
             Customer user = null;
